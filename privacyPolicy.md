@@ -7,11 +7,11 @@ This service is intended for use "AS IS".
 
 ## Information Collection and Use
 
-The Application does not collects any information when you download and use it. 
-The Application does not gather precise information about the location of your mobile device.
-The Application does not track and keep your progress of activity or any results of quizes.
-The Service Provider does not use the Application to knowingly solicit data or market.
-The Service Provider does not collect personally identifiable information.
+- The Application does not collects any information when you download and use it. 
+- The Application does not gather precise information about the location of your mobile device.
+- The Application does not track and keep your progress of activity or any results of quizes.
+- The Service Provider does not use the Application to knowingly solicit data or market.
+- The Service Provider does not collect personally identifiable information.
 
 
 ## Changes
