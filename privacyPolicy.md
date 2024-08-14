@@ -12,6 +12,12 @@ This service is intended for use "AS IS".
 - The Application does not track and keep your progress of activity or any results of quizes.
 - The Service Provider does not use the Application to knowingly solicit data or market.
 - The Service Provider does not collect personally identifiable information.
+- Please note, this project may automatically load third party code from external 
+  repositories (for example, NPM modules, Composer packages, or other dependencies). 
+  If so, such third party code may be subject to other license terms than as set 
+  forth above. In addition, such third party code may also depend on and load 
+  multiple tiers of dependencies. Please review the applicable licenses of the 
+  additional dependencies.
 
 
 ## Changes
